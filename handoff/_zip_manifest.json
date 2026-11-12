@@ -1,0 +1,44 @@
+[
+ {
+  "name": "aircarrier_package_01_01_HANDOFF_BUILD_REFERENCE.md.zip",
+  "files": 864,
+  "bytes": 18318371,
+  "mb": 18.3
+ },
+ {
+  "name": "aircarrier_package_02_reference.zip",
+  "files": 1,
+  "bytes": 35482235,
+  "mb": 35.5
+ },
+ {
+  "name": "aircarrier_package_03_reference.zip",
+  "files": 95,
+  "bytes": 36657282,
+  "mb": 36.7
+ },
+ {
+  "name": "aircarrier_package_04_data_volumes_aircarrier_extracted.zip",
+  "files": 131,
+  "bytes": 35164940,
+  "mb": 35.2
+ },
+ {
+  "name": "aircarrier_package_05_data_volumes_aircarrier_artifacts.zip",
+  "files": 14,
+  "bytes": 43915595,
+  "mb": 43.9
+ },
+ {
+  "name": "aircarrier_package_06_data_volumes_aircarrier_artifacts.zip",
+  "files": 100,
+  "bytes": 39237738,
+  "mb": 39.2
+ },
+ {
+  "name": "aircarrier_package_07_data_volumes_aircarrier_artifacts.zip",
+  "files": 77,
+  "bytes": 5525576,
+  "mb": 5.5
+ }
+]
